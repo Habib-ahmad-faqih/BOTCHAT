@@ -1,0 +1,10 @@
+"use strict";
+var nama = 'habib';
+var umur = 14;
+var islife = true;
+var parfumSaya;
+parfumSaya = ["braven", "gatsby", "casablanca"];
+console.log({ nama: nama });
+console.log({ umur: umur });
+console.log({ islife: islife });
+console.log({ parfumSaya: parfumSaya });
